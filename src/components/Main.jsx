@@ -35,7 +35,7 @@ export default function Main() {
       : seterror(false);
     !email.includes("@company.com") && email !== ""
       ? emailInputRef.current.classList.add("error")
-      : setsuccess(true);
+      : emailInputRef.current.classList.remove("error");
     email !== "" && email.includes("@company.com") && setsuccess(true);
   };
   return (
@@ -122,7 +122,7 @@ export default function Main() {
                 })}
               </List>
               <br />
-              <form>
+              <form onSubmit={handleSubmit}>
                 <Stack direction="row" justifyContent="space-between">
                   <label
                     style={{
