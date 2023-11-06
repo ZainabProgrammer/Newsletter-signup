@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+::placeholder {
+  color: hsl(231, 7%, 60%) !important;
+}
+input {
+  border: 1px solid hsl(231, 7%, 80%) !important;
+  color: ;
+}
+input:focus {
+  outline: 1px solid black;
+  background: transparent !important;
+}
+input:active {
+  background-color: inherit !important;
+}
+.error {
+  background-color: hsl(4, 100%, 94%) !important;
+  color: hsl(4, 100%, 67%) !important;
+  outline: 1px solid hsl(4, 100%, 67%) !important;
+}
