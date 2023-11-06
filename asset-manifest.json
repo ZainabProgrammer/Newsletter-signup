@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Newsletter-signup/static/css/main.5a8bc035.css",
-    "main.js": "/Newsletter-signup/static/js/main.f2634bf8.js",
+    "main.js": "/Newsletter-signup/static/js/main.670cd150.js",
     "static/js/787.c1112931.chunk.js": "/Newsletter-signup/static/js/787.c1112931.chunk.js",
     "static/media/Roboto-Regular.ttf": "/Newsletter-signup/static/media/Roboto-Regular.160d7a6ac26376e5e977.ttf",
     "static/media/img-mob.svg": "/Newsletter-signup/static/media/img-mob.3f6f1c6d3e48045cb31a0cae1ae11999.svg",
@@ -9,11 +9,11 @@
     "index.html": "/Newsletter-signup/index.html",
     "static/media/icon-list.svg": "/Newsletter-signup/static/media/icon-list.5e317c030bb9f11a33433484a2c590e1.svg",
     "main.5a8bc035.css.map": "/Newsletter-signup/static/css/main.5a8bc035.css.map",
-    "main.f2634bf8.js.map": "/Newsletter-signup/static/js/main.f2634bf8.js.map",
+    "main.670cd150.js.map": "/Newsletter-signup/static/js/main.670cd150.js.map",
     "787.c1112931.chunk.js.map": "/Newsletter-signup/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a8bc035.css",
-    "static/js/main.f2634bf8.js"
+    "static/js/main.670cd150.js"
   ]
 }
