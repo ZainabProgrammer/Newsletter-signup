@@ -7,6 +7,7 @@ body {
   font-family: "Roboto-Regular";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: hsl(234, 29%, 20%) !important ;
 }
 
 code {
